@@ -44,7 +44,7 @@ typedef struct{
 // APRS / AFSK variables
   
 #define APRS_DEVID "APEHAB"  
-#define APRS_COMMENT "http://www.pi-in-the-sky.com"
+#define APRS_COMMENT "N18 HAB Mission -> http://ballon.n18.de"
  
 /* "converts" 4-char string to long int */
 #define dw(a) (*(UL*)(a))
